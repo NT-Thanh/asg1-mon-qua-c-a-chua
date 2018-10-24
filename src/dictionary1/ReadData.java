@@ -10,7 +10,7 @@ import java.util.zip.ZipInputStream;
 
 /**
  *
- * @author Administrator
+ * @author XuanHoang & TienThanh
  */
 public class ReadData {
     
