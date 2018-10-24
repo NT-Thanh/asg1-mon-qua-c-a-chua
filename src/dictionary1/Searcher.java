@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Administrator
+ * @author TienThanh & XuanHoang
  */
 public class Searcher {
     
