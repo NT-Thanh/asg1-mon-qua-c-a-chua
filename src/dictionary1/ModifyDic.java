@@ -14,7 +14,7 @@ import java.util.zip.ZipOutputStream;
 
 /**
  *
- * @author Administrator
+ * @author XuanHoang & TienThanh
  */
 public class ModifyDic {
     
