@@ -7,6 +7,11 @@ import com.sun.speech.freetts.*;
 import java.util.Collections;
 import de.javasoft.plaf.synthetica.SyntheticaPlainLookAndFeel;
 
+/**
+ *
+ * @author TienThanh & XuanHoang
+ */
+
 public class MainFrame extends javax.swing.JFrame {
     ReadData data = new ReadData();
     Searcher search = new Searcher();
